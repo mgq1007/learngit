@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git push remote origin.
 2020-9-10 17:26
+Creating a new branch is quick.
